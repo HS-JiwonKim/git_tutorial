@@ -1,2 +1,2 @@
 # git_tutorial
-study of Opensource
+study for Opensource
